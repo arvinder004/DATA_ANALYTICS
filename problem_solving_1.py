@@ -1,14 +1,14 @@
 #WAP to display a person's name, age and address in three different lines
 
-print("""arvinder
+print(""" arvinder
 19
-66/70 laxmi colony hathital""")
+66/70 laxmi colony hathital """)
 
 #Write a program to swap 2 variables
 
 a = 10
 b = 20
-print("VALUE OF a IS ",a,"\nVALUE OF b IS" , b)
+print("VALUE OF a IS " , a , "\nVALUE OF b IS ", b)
 
 a,b = b,a
 print("VALUE OF a IS ",a,"\nVALUE OF b IS" , b)
